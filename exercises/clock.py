@@ -7,5 +7,5 @@ def punch_out(clockin, clockout):
 
     print(d2-d1)
 
-punch_out("8:43", "18:43")
+punch_out("8:54", "19:32")
 
